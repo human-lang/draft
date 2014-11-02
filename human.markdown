@@ -43,6 +43,10 @@ Thoughts
 
 * 美是什么? 除了一些基本原则(比如黄金分割，复调呼应)外，好像无法从人类的思维特质里得到。
 
+* 人类思维用语言来表达，因此语言体现了人类思维。编程中的例子可见 "Context"。知乎问答"语
+  言编程中什么是「Context(上下文)」" http://www.zhihu.com/question/26387327
+
+
 软件工程
 ----------------------------------
 * 程序员写代码时考虑的是以后别人如何来看这段代码，而不仅仅是符合业务逻辑的代码即可。
@@ -126,5 +130,10 @@ Human编程语言 设计草稿
   来得到，比如编译后的 JavaScript 。
 * 既然是层次化，能否静动态混合类型编程呢，用于提速或安全等目的。一部分是机器码，一部
   分是类似JVM，一部分动态。
-
+* 既然在每一个层次都是逻辑，那是否可以完全的加速呢，或者程序自己显示消耗出现在什么地
+  方。
+* http://www.alorelang.org/doc/typeoverview.html Alore is a programming language
+  that supports both dynamic and static typing, and a mixture of both in the same
+  program.
+* 1.2.3.4.5 序列化编程应该融入编程语法。
 
