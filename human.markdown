@@ -105,10 +105,7 @@ Plan
 
 Reference
 ----------------------------------
-* http://www.ac.net.blog.163.com/blog/static/13649056201210173259510/ 这是因为平坦化和
-  模块化破坏了函数的局部性，让读者难以理解。我们通常谈及CPU局部性，是指CPU访问相邻内存
-  时要比访问远处内存时更快，因为相邻的内存有更大的可能性位于高速缓存中。人脑和CPU一样
-  ，工作记忆很小，思考时如果思路不连贯效率就低下。
+* [CPS, scala 相关](http://www.ac.net.blog.163.com/)
 
 
 CoffeeScript
@@ -136,4 +133,6 @@ Human编程语言 设计草稿
   that supports both dynamic and static typing, and a mixture of both in the same
   program.
 * 1.2.3.4.5 序列化编程应该融入编程语法。
+
+
 
